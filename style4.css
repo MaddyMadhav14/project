@@ -1,0 +1,32 @@
+{
+	padding: 0px;
+	margin: 0px;
+}
+.bakery{
+	width: 1000px;
+	height: 2000px;
+	background-color: red;
+}
+.cupcakes{
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	padding: 25px 25px 25px 25px;
+	margin:25px 25px 25px 25px;
+}
+.hotchips{
+	width: 500px;
+	height: 500px;
+
+	background-color: green;
+	padding: 25px 25px 25px 25px;
+	margin: 25px 25px 25px 25px;
+} 
+
+.download2.jpeg{
+	width: 500px;
+	height: 500px;
+	background-color: orange;
+	padding: 25px 25px 25px 25px
+	margin:25px 25px 25px 25px
+}

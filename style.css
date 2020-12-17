@@ -1,0 +1,13 @@
+body{
+	background-color:red;
+}
+
+div{
+	width: 700px;
+	height: 500px;
+	background-color: orange;
+	border: 6px solid yellow;
+	background-color: blue;
+}
+.div1
+{background-color: pink;}
